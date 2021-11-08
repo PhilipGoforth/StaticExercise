@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yz1SjkY8aMQdXQm4hrEf9M/4gdF7bp88x3ptinCu8h276mNjTsO2jiJk2qgvh3lzB9z2EOglEViY1lmVQoXW/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ego\\repos\\StaticExercise\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
